@@ -1,9 +1,3 @@
-## 안녕하세요!
-
-
-----
-
-### My Github Stats
 <p align="left">
   <a href="#">
     <img src="https://github-readme-stats.vercel.app/api?username=sysnar&show_icons=true&theme=radical" height="160px">
