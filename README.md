@@ -9,9 +9,6 @@
 
 ### My Github Stats
 
-<a href="#">
-  <img src="https://github-readme-stats.vercel.app/api?username=sysnar&theme=react&show_icons=true" height="180px">
-</a>
-<a href="#">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sysnar&theme=react&exclude_repo=Jagi,assignment&layout=compact" height="180px">
-</a>
+<center>
+![SYSNAR's GitHub stats](https://github-readme-stats.vercel.app/api?username=sysnar&show_icons=true&theme=radical)     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sysnar&hide=html,scss,css,ejs&layout=compact)](https://github.com/sysnar/github-readme-stats)
+</center>
