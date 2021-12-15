@@ -6,10 +6,10 @@
 ### My Github Stats
 <p align="center">
   <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api?username=sysnar&show_icons=true&theme=radical" height="170px">
+    <img src="https://github-readme-stats.vercel.app/api?username=sysnar&show_icons=true&theme=radical" height="150px">
   </a>
   <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sysnar&hide=html,scss,css,ejs&layout=compact" height="170px">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sysnar&hide=html,scss,css,ejs&layout=compact" height="150px">
   </a>
 </p>
 
