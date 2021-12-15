@@ -8,5 +8,7 @@
 ----
 
 ### My Github Stats
-
-<center>![SYSNAR's GitHub stats](https://github-readme-stats.vercel.app/api?username=sysnar&show_icons=true&theme=radical)     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sysnar&hide=html,scss,css,ejs&layout=compact)](https://github.com/sysnar/github-readme-stats)</center>
+<center>
+<img src="https://github-readme-stats.vercel.app/api?username=sysnar&show_icons=true&theme=radical"> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sysnar&hide=html,scss,css,ejs&layout=compact">
+</center>
